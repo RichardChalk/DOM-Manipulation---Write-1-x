@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Jag lämnar dessa kvar som ledtråd */
+
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+
+#title-wrapper {
+  display: flex;
+  width: 1000px;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.number-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.number-text {
+  border: 1px black solid;
+  padding: 15px;
+  width: 90px;
+  text-align: center;
+  margin: 5px;
+  border-radius: 100%;
+}
+
+.button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
