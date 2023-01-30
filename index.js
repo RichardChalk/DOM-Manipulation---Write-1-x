@@ -1,4 +1,4 @@
-// Create a div container on HTML document and create x numbers dynamically
+// Create a div container on HTML document and create x numbers dynamically (användaren får välja!)
 // and append to the container div.
 
 
