@@ -1,5 +1,6 @@
 // Create a div container on HTML document and create x numbers dynamically
 // and append to the container div.
+// Användaren får välja antal siffror som ska skapas!
 
 let button = document.querySelector("#button");
 let number = document.querySelector("#number");
